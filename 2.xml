@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+	<course id="XML">
+ 		<title>XML технологии</title>
+ 		<keywords>
+  			<keyword>XML</keyword>
+  			<keyword>XML Schema</keyword>
+  			<keyword>XPath</keyword>
+  			<keyword>XSLT</keyword>
+ 		</keywords>
+ 		<teachers>
+  			<teacher>Федотов Е.А.</teacher>
+  			<teacher>Борисов И.О.</teacher>
+ 		</teachers>
+	</course>
+	<course id="WEB">
+ 		<title>Веб-разработка</title>
+ 		<keywords>
+  			<keyword>HTML</keyword>
+  			<keyword>CSS</keyword>
+  			<keyword>PHP</keyword>
+  			<keyword>JavaScript</keyword>
+  			<keyword>Node</keyword>
+ 		</keywords>
+ 		<teachers>
+  			<teacher>Борисов И.О.</teacher>
+  			<teacher>Сурначева А.Д.</teacher>
+ 		</teachers>
+	</course>
+ 	<course id="PHP">
+ 		<title>Программирование на PHP</title>
+ 		<keywords>
+  			<keyword>PHP</keyword>
+  			<keyword>XML</keyword>
+  			<keyword>XSLT</keyword>
+  			<keyword>MySQL</keyword>
+ 		</keywords>
+ 		<teachers>
+  			<teacher>Темняков Н.С.</teacher>
+  			<teacher>Борисов И.О.</teacher>
+ 		</teachers>
+	</course>
+</courses>
